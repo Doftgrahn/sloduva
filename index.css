@@ -1,0 +1,44 @@
+h1 {color: brown;
+text-align: center;}
+.blue{color:blue;}
+ p {color: darkmagenta;
+font-weight: bold;
+border: 1px solid green;
+ }
+ body {background-color: #6b5b95;
+   font-family: arial;
+ }
+
+
+
+
+
+
+   #green {
+     background-color: lightgreen;
+   }
+
+   .natur {
+     background-color: orange;
+     position:fixed;
+     bottom: 4px;
+
+
+   }
+
+.menu: 1px solid gray;
+.menu ul{
+  background-color: green;
+  position: relative;
+  width:80%;
+
+
+}
+/*{border:1px solid black}; (Bra för felsökning)
+*/
+.menu>ul>li:hover{border 1px solid gray;
+  width: 8em;
+  background-color: lightskyblue;
+
+  opacity: 0,5;
+}
